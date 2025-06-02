@@ -1,16 +1,15 @@
 ---
 home: true
 portfolio: true
-title: 档案主页
+title: 个人档案
 icon: house
 welcome: 👋 你好，我是
-name: 江户川柯南
-avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
+name: SuperWhw
+bgImage: /assets/image/bg-light.jpg
+bgImageDark: /assets/image/bg-dark.jpg
 
 titles:
-  - 天才少年侦探
-  - 小兰的青梅竹马
-  - 黑衣组织的最大对手
+  - Stay hungry, stay foolish
 
 footer: false
 ---

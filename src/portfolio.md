@@ -1,15 +1,15 @@
 ---
 home: true
 portfolio: true
-title: Portfolio Home
+title: Portfolio
 icon: house
-name: Conan Edogawa
-avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
+welcome: 👋 Hi There, I'm
+name: SuperWhw
+bgImage: /assets/image/bg-light.jpg
+bgImageDark: /assets/image/bg-dark.jpg
 
 titles:
-  - Genius young detective
-  - Lan’s childhood sweetheart
-  - The biggest rival of the black organization
+  - Stay hungry, stay foolish
 
 footer: false
 ---
